@@ -1,0 +1,5 @@
+.readme.md.swp
+*.cfg
+*.weights
+lib/
+bin/
