@@ -1,4 +1,4 @@
-#object detection 
+# object detection 
 
 ### installer opencv-python
 ### telecharger les yolov3 weights ainsi que les fichiers de confeguration
